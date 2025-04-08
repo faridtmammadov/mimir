@@ -49,6 +49,8 @@
 
 ### Jsonnet
 
+* [CHANGE] Increase the number of rule groups for baseline user tiers 20%. #11152
+
 ### Mimirtool
 
 * [FEATURE] Add `--enable-experimental-functions` flag to commands that parse PromQL to allow parsing experimental functions such as `sort_by_label()`.
